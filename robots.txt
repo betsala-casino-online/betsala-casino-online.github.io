@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /play-and-win/
+
+Sitemap: https://betsala-casino-online.github.io/sitemap.xml
